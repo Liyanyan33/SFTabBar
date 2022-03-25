@@ -1,2 +1,2 @@
 # SFTabBar
-navigation bar about iOS of Objective_c
+tab bar about iOS of Objective_c
